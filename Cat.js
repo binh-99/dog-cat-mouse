@@ -3,3 +3,5 @@ function Cat(name){
 	this.stomach = [];
 };
 
+var Tom = new Cat('Tomy');
+
