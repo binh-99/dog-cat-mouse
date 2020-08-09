@@ -6,3 +6,6 @@ function Cat(name){
 var Tom = new Cat('Tomy');
 var meoTom = new Cat('Duyen');
 
+
+console.log(meoTom);
+
