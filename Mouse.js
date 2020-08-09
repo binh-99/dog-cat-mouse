@@ -7,4 +7,4 @@ Mouse.prototype.die = function() {
 	this.dead = true;
 };
 
-var mouse1 = new Mouse('Jerry');
+module.exports = Mouse;
