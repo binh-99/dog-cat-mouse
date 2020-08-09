@@ -4,5 +4,5 @@ function Cat(name){
 };
 
 var Tom = new Cat('Tomy');
-var meoTom = new Cat('Hoa');
+var meoTom = new Cat('Duyen');
 
