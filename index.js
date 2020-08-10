@@ -1,5 +1,9 @@
 var Dog = require('./Dog');
+var Cat = require('./Cat');
 
-var dog1 = new Dog('Tom');
+var dog1 = new Dog('Lucky');
+var tom = new Cat('Tom');
 
-dog1.sayHi();
+dog1.eat(tom);
+
+console.log(dog1);
